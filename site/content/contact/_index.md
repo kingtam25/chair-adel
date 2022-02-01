@@ -1,9 +1,9 @@
 ---
 title: "Contact"
-logo: "/img/logo.svg"
+logo: "/storage/emulated/0/Download/téléchargement (1).png"
 contact_entries:
   - heading: Location
-    text: "3153 Lynn Avenue, South San Francisco, California 94080"
+    text: "48 cité boudraa salah constantine.Algerie"
   - heading: Working hours
     text: "Monday – Saturday: 9AM – 7PM We’re closed on Sundays"
 ---
