@@ -1,15 +1,19 @@
+
 ---
-title: 'tech'
-date: 2018-11-14T19:02:50-07:00
-draft: false
+title: "I'am CHAÏR ADEL"
+subtitle:Front end Developer
+image:/storage/emulated/0/DCIM/Camera/IMG20220131125039.jpg
+    heading: About me
+    text: "My name is Adel CHAIR, I’m a Web Developer and a front end Developer and Designer. Self-directed and capable of learning new programming languages and technologies. Also, I’m an IT Engineer at University of Constantine 3. Possess excellent communication, problem-solving, documentation, analytical and decison solving skills."
+intro:
+    heading: "and..."
+    text: "I have a good knowledge in Web-programming, front-end designing and making responsive websites."
+products:
+    - image:/storage/emulated/0/DCIM/Camera/IMG20210830081212.jpg
+      text: "Also the ability to be self-motivated, independent and detail-oriented."
+    - image:/storage/emulated/0/DCIM/Camera/IMG20210805100952.jpg
+      text: "Also a good knowledge in Wordpress manipulation."
+values:
+    heading: Design
+    text:"Illustrator Adobe InDesign Adobe Photoshop."
 ---
-
-# [Victor Hugo](https://github.com/netlify-templates/victor-hugo)
-
-## A Hugo boilerplate for creating truly epic websites
-
-<img src="https://d33wubrfki0l68.cloudfront.net/30790d6888bd8af863fb2b5c33a7f337cdbda243/4e867/images/hugo-logo-wide.svg" style="width: 40%" />
-
-This is a boilerplate for using [Hugo](https://gohugo.io/) as a static site generator and [Webpack](https://webpack.js.org/) as your asset pipeline. Victor Hugo setup to use [PostCSS](http://postcss.org/) and [Babel](https://babeljs.io/) for CSS and JavaScript compiling/transpiling. This project is released under the [MIT license](LICENSE). Please make sure you understand its implications and guarantees.
-
-## Enjoy!! 😸
